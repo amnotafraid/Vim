@@ -5,3 +5,4 @@ set number
 set showcmd
 set ruler
 set hlsearch
+syntax on
